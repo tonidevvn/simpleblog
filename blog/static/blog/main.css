@@ -1,7 +1,6 @@
 body {
     background: #fafafa;
     color: #333333;
-    margin-top: 5rem;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -40,9 +39,12 @@ ul {
     color: #444444;
 }
 
+a {
+    text-decoration: none;
+}
+
 a.article-title:hover {
     color: #428bca;
-    text-decoration: none;
 }
 
 .article-content {
